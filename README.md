@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working at Jumia CTC (JumiaFood Application Team https://github.com/JumiaFood)
-
 
 <br/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=SarcasticGeek&amp;show_icons=true&theme=calm" alt="GitHub Stats"></p>
